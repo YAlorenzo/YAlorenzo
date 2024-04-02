@@ -29,6 +29,12 @@
 </div>
 
 ### :man_technologist: About Me :
+I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+- :telescope: I am a young frontend developer. Currently, I am actively engaged in studying and creating various exciting projects, including websites, web applications, and web animations, deepening and expanding my technology stack.
+
+- :zap: I am also passionate about developing web games. In my free time, I immerse myself in studying gaming technologies and game development. Additionally, I enjoy playing chess and watching content on YouTube, as well as exploring various articles from the IT world.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-klymenchuk/)
 
 
 
