@@ -13,6 +13,10 @@
   </a>
 </div>
 
+ <!-- view -->
+<img src="https://komarev.com/ghpvc/?username=YAlorenzo&style=flat&color=blue" alt=""/>
+
+
 </div>
 
 
