@@ -61,7 +61,7 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YAlorenzo&theme=tokyonight-duo&card_width=500)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YAlorenzo&layout=compact&theme=tokyonight&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YAlorenzo&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=474a4d)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
