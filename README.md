@@ -10,14 +10,15 @@
     <img src="https://img.shields.io/badge/Telegram-F13C20?logo=telegram&logoColor=white&style=flat" alt="LinkedIn Badge"/>
   </a>
    <a href="https://www.linkedin.com/in/yevhenii-klymenchuk/">
-    <img src="https://img.shields.io/badge/Telegram-F13C20?logo=telegram&logoColor=white&style=flat" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-F13C20?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn Badge"/>
   </a>
    <a href="https://www.linkedin.com/in/yevhenii-klymenchuk/">
-    <img src="https://img.shields.io/badge/Telegram-F13C20?logo=telegram&logoColor=white&style=flat" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-F13C20?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn Badge"/>
   </a>
    <a href="https://www.linkedin.com/in/yevhenii-klymenchuk/">
-    <img src="https://img.shields.io/badge/Telegram-F13C20?logo=telegram&logoColor=white&style=flat" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-F13C20?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn Badge"/>
   </a>
+  
   
 </div>
 
