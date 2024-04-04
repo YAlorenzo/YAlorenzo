@@ -5,6 +5,9 @@
 </div>
 
 <!-- Отступ между логотипом и блоком с бейджами -->
+
+<div>fff</div>
+
   
 <div id="badges">
     <a href="https://www.linkedin.com/in/yevhenii-klymenchuk/">
