@@ -16,7 +16,7 @@
 </div>
 
  <!-- view -->
-<img src="https://komarev.com/ghpvc/?username=YAlorenzo&style=flat&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=YAlorenzo&style=flat&color=red" alt=""/>
 
 <!-- title -->
 <h1 align="center">
