@@ -6,10 +6,10 @@
   <!-- social-links -->
 <div id="badges">
   <a href="https://www.linkedin.com/in/yevhenii-klymenchuk/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-red?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/do2do">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-red?logo=telegram&logoColor=white&style=flat" alt="Youtube Badge"/>
   </a>
 </div>
 
