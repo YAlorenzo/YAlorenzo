@@ -7,16 +7,16 @@
 <div id="badges">
   
   <a href="https://www.linkedin.com/in/yevhenii-klymenchuk/">
-    <img src="https://img.shields.io/badge/LinkedIn-red?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-F13C20?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn Badge"/>
   </a>
   
   <a href="https://t.me/do2do">
-    <img src="https://img.shields.io/badge/Telegram-red?logo=telegram&logoColor=white&style=flat" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-F13C20?logo=telegram&logoColor=white&style=flat" alt="Youtube Badge"/>
   </a>
 </div>
 
  <!-- view -->
-<img src="https://komarev.com/ghpvc/?username=YAlorenzo&style=flat&color=red" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=YAlorenzo&style=flat&color=F13C20" alt=""/>
 
 <!-- title -->
 <h1 align="center">
