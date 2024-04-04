@@ -1,6 +1,9 @@
 
 <div id="header" align="center">
-  <img src="/img/logo.svg" width="100"/>
+  <div>
+      <img src="/img/logo.svg" width="100"/>
+  </div>
+
 
   
 <div id="badges">
