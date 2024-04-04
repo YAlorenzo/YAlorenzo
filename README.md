@@ -30,7 +30,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### About Me :
 I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 - :telescope: I am a young frontend developer. Currently, I am actively engaged in studying and creating various exciting projects, including websites, web applications, and web animations, deepening and expanding my technology stack.
 
