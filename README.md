@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <!-- header-img -->
-  <img src="https://app.logo.com/view/logo_09edb19b-7b5e-4219-9410-318d1f87b343" width="100"/>
+  <img src="/img/logo.svg" width="100"/>
 
   <!-- social-links -->
 <div id="badges">
