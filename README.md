@@ -6,8 +6,6 @@
 
 <!-- Отступ между логотипом и блоком с бейджами -->
 
-<div></div>
-
   
 <div id="badges">
     <a href="https://www.linkedin.com/in/yevhenii-klymenchuk/">
