@@ -28,6 +28,8 @@
 </div>
 </div>
 
+---
+
 ### :man_technologist: About Me :
 I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 - :telescope: I am a young frontend developer. Currently, I am actively engaged in studying and creating various exciting projects, including websites, web applications, and web animations, deepening and expanding my technology stack.
@@ -53,6 +55,12 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss"  alt="tailwindcss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
+
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YAlorenzo&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
