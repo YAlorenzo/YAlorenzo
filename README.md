@@ -17,7 +17,6 @@
 </div>
 
 
-<img src="https://komarev.com/ghpvc/?username=YAlorenzo&style=flat&color=F13C20" alt=""/>
 
 
 
