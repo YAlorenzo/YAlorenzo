@@ -33,8 +33,6 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: I am also interesting in developing web games in my free time. I immerse myself in studying gaming technologies and game development. Additionally, I enjoy playing chess and watching content on YouTube, as well as exploring various articles from the IT world.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-klymenchuk/)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
