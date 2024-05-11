@@ -24,7 +24,7 @@
 
 
 
----
+
 
 ### About Me 
 I am a junior FrontEnd developer. <br/>
@@ -36,7 +36,7 @@ I am a junior FrontEnd developer. <br/>
 </div>
 
 
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
