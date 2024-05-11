@@ -28,9 +28,8 @@
 
 ### About Me 
 I am a junior FrontEnd developer.
-- :telescope: Now I actively study and create various web sites, animations, study new frameworks and technologies.
-
-- :zap:In my free time, I like to study web game development. In addition, I like to play chess and read articles about IT technologies.
+:telescope: Now I actively study and create various web sites, animations, study new frameworks and technologies.
+:zap:In my free time, I like to study web game development. In addition, I like to play chess and read articles about IT technologies.
 
 ---
 
