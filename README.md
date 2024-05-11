@@ -7,7 +7,7 @@
 <!-- Отступ между логотипом и блоком с бейджами -->
 
   
-<div id="badges" margin="30px">
+<div id="badges" style="margin-top: 30px; margin-bottom: 30px;">
     <a href="https://www.linkedin.com/in/yevhenii-klymenchuk/">
         <img src="https://img.shields.io/badge/LinkedIn-F13C20?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn Badge"/>
     </a>
@@ -30,7 +30,6 @@
 I am a junior FrontEnd developer. <br/>
 
 <div align="left">
-    
 :telescope: Now I actively study and create various web sites, animations, study new frameworks and technologies. <br/>
 :zap:In my free time, I like to study web game development. In addition, I like to play chess and read articles about IT technologies.
 </div>
