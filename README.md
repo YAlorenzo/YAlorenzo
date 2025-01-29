@@ -27,7 +27,7 @@
 
 
 ### About Me 
-I am a junior Frontend developer and a student at the Slovak University of Technology, studying Information and Communication Technologies. <br/>
+I am a junior Frontend developer and a student at the Slovak University of Technology. <br/>
 
 <div align="left">
 :telescope: Currently, I am actively learning and building various websites, exploring animations, and diving into new frameworks and technologies. <br/>
