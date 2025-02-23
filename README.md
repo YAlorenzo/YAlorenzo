@@ -27,12 +27,12 @@
 
 
 ### About Me 
-I am a junior Frontend developer and a student at the Slovak University of Technology. <br/>
+I am a student at the Slovak Technical University. <br/>
 
 <div align="left">
-:telescope: Currently, I am actively learning and building various websites, exploring animations, and diving into new frameworks and technologies. <br/>
-:mortar_board: As a university student, I am deepening my knowledge in programming, algorithms, and system design. <br/>  
-:zap:In my free time, I like to study web game development. In addition, I like to play chess and read articles about IT technologies.
+:telescope:Currently, I am studying computer architecture, C language. I also write websites, make animations, study frameworks, IT technologies, and I am also interested in computer games. <br/>
+:mortar_board: Here you can see some of my projects and maybe they will be useful to someone. <br/>  
+:zap:In my free time, I play chess, go to the gym.
 </div>
 
 
