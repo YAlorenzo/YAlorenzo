@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
 <div>
-    <img src="/img/logo.svg" width="100"/>
+    <img src="/img/logo.png" width="100"/>
 </div>
 
 <!-- Отступ между логотипом и блоком с бейджами -->
